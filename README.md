@@ -16,7 +16,7 @@ This repo contains code for the assignments question supplied by the teacher (20
 # Example for cloning and setting up a Java project
 # Fork the Parent Repo
 git clone https://github.com/<username>/ICP-Assignment-SEM-1.git
-cd ICP-Assignment-SEM-1
+cd ICP-Assignment-SEM-2
 ```
 
 ## Contributing
