@@ -1,4 +1,4 @@
-package semester_2.dsa_assignment_1.home_assignment;
+	package semester_2.dsa_assignment_1.home_assignment;
 
 import java.util.Scanner;
 
